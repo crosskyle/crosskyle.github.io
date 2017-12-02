@@ -1,0 +1,27 @@
+
+.frame {
+  float: left;
+  margin-left: 5em;
+}
+
+#singlerow {
+  text-align: center;
+}
+
+#singleframe {
+  margin-left: 3em;
+  display: inline-block;
+}
+
+.single {
+  width: 80%
+  text-align: center;
+}
+
+.label1 {
+  color: rgb(197, 198, 199);
+}
+
+.label2 {
+  color: rgb(102, 252, 241);
+}
